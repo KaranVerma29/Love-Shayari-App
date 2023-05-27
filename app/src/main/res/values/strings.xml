@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Love Shayri App</string>
+    <string name="love_shayari">Love Shayari</string>
+    <string name="start">Start</string>
+    <string name="rate">Rate</string>
+    <string name="more">More...</string>
+    <string name="share">Share</string>
+    <string name="rate_menu">Rate</string>
+    <string name="more_menu">More</string>
+    <string name="hindi_love_shayari">Hindi Love Shayari</string>
+</resources>

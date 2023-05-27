@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141111939140",
+    "project_id": "love-shayri-app-ba64b",
+    "storage_bucket": "love-shayri-app-ba64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141111939140:android:13a12fa0dcc687edf72c11",
+        "android_client_info": {
+          "package_name": "com.example.loveshayriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141111939140-jatmnrn3c5205torqk91pf2h0m98pnvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxvpzmL5x01f1lYud0weCGrhKFUFE0A64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141111939140-jatmnrn3c5205torqk91pf2h0m98pnvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
